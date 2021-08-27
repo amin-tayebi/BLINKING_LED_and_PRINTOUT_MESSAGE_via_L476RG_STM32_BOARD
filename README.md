@@ -5,6 +5,13 @@
 BLINKING LED and PRINTOUT_MESSAGE to a Terminal application via L476RG_STM32_BOARD
 
 
+<b>📚 Description:</b>
+
+- The target LED on the board is LED(2).  In the os.mbed.com scheme has been written LED(1) by mistake.
+
+- No need to reset the board by pushing button on L476RG_STM32_BOARD and WL55JC as they will restart automatically after uploading (FLASH) the board via cube-IDE.
+
+
 <b>👉 Hardware equipment:</b>
 
 - L476RG_STM32 board
@@ -16,13 +23,6 @@ BLINKING LED and PRINTOUT_MESSAGE to a Terminal application via L476RG_STM32_BOA
 - Cube-IDE software
 
 - Cutecome terminal application (or any terminal application)
-
-
-<b>📚 Description:</b>
-
-- The target LED on the board is LED(2).  In the os.mbed.com scheme has been written LED(1) by mistake.
-
-- No need to reset the board by pushing button on L476RG_STM32_BOARD and WL55JC as they will restart automatically after uploading (FLASH) the board via cube-IDE.
 
 
 <b>🎬 Related video:</b>
