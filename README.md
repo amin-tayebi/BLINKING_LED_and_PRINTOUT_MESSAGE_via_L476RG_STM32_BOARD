@@ -1,6 +1,6 @@
 # BLINKING_LED_and_PRINTOUT_MESSAGE_via_L476RG_STM32_BOARD
 
-<b>🔥 GOAL of the project:</b>
+<b>🔥 GOAL of the workshop:</b>
 
 BLINKING LED and PRINTOUT_MESSAGE to a Terminal application via L476RG_STM32_BOARD
 
