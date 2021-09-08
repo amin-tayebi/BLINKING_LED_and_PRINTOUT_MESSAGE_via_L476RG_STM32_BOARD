@@ -4,6 +4,9 @@
 
 BLINKING LED and PRINTOUT_MESSAGE to a Terminal application via L476RG_STM32_BOARD
 
+<b>🎬 Related video</b>
+
+https://drive.google.com/drive/folders/193a0y-XQt243AbnOHGVEFdcdlx3MfqSE?usp=sharing
 
 <b>📚 Description</b>
 
@@ -23,11 +26,6 @@ BLINKING LED and PRINTOUT_MESSAGE to a Terminal application via L476RG_STM32_BOA
 - Cube-IDE software
 
 - Cutecome terminal application (or any terminal application)
-
-
-<b>🎬 Related video</b>
-
-https://drive.google.com/drive/folders/193a0y-XQt243AbnOHGVEFdcdlx3MfqSE?usp=sharing
 
 
 <b>👋 Additional resources</b>
